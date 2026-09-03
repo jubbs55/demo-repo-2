@@ -1,0 +1,3 @@
+- branches can be used to commit things in a separate spot
+- you can merge branches to keep the gitkraken interface clean and make multiple commitments look like 1
+- you can create and access hidden files through the terminal
